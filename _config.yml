@@ -1,0 +1,12 @@
+#settings
+title: Harsh Ajay Mehta
+description: "gonewithharshwinds"
+email: gonewithharshwinds@gmail.com
+baseurl: "https://linktr.ee/gonewithharshwinds"
+url: "https://gonewithharshwinds.com"
+github_username: gonewithharshwinds
+permalink: pretty
+
+markdown: jekyll
+#kramdown
+highlighter: rich
