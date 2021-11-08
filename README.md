@@ -47,18 +47,20 @@
 
 **Basic** : Java, Julia, Vue.js, MongoDB
 
-**Intermediate** : C/C++, HTML5, CSS3, Python
+**Intermediate** : C/C++, HTML5, CSS3, Python, SQL
 
 **Tools** :  VSC, ATOM, Affinity Studio (Publisher, Designer, Photo), 
 
 ### 𝙵𝙸𝙴𝙻𝙳𝚂 𝙾𝙵 𝙸𝙽𝚃𝙴𝚁𝙴𝚂𝚃 🙃
 
-- Web Development 
-- Progressive Web Applications 
-- Graphic Design
-- UI/UX Design
-- Linux Operating System
 - Data Science
+- Bio-computing (Bioinformatics)
+- Statistics
+- Research & Development
+- Web-Development
+- UI/UX Design
+- Graphic Design
+
 
 ### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂  ✍🏼
 
