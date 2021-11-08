@@ -1,41 +1,55 @@
 # HARSH AJAY MEHTA
 
-## 𝙴𝙳𝚄𝙲𝙰𝚃𝙸𝙾𝙽  👨‍🎓
+## EDUCATION
 
-- **SRM Institute Of Technology, Chennai — B.Tech (Information Technology)** 
-  - Batch :  June 2015 - May  2019 (Present)
-  - CGPA : 7.80 (upto 6th Semester) 
-- **Kendriya Vidyalaya, Hoshangabad — Higher Secondary (Class 12th)**
-   - Year : 2014 - 2015
+- **Manipal Institute Of Technology, Manipal — B.Tech (Information Technology)** 
+  - Batch :  June 2019 - (Present)
+  - CGPA : 7.53 (until 4th Sem)
+- **Velociity Junior College, Hyderabad — Higher Secondary (Class 11,12th)**
+   - Year : June 2017 - March 2019
    - Percentage : 82%
-- **Kendriya Vidyalaya, Hoshangabad — Secondary (Class 10th)**
-   - Year : 2013 - 2014
-   - CGPA : 8.8
+- **Narayana CO-Spark School, Hyderabad — Secondary (Class 8,9,10th)**
+   - Year : October 2014 - April 2017
+   - CGPA : 9.6 (10th)
+- **Children's Academy, Mumbai - (Class kg to 8th)**
+   - Year : until October 2014
+   - Grade : A
 
-## 𝙴𝚇𝙿𝙴𝚁𝙸𝙴𝙽𝙲𝙴  👨‍💻
+## EXPERIENCE
 
-- **Web Developer at [Bizwit Research & Consulting LLP](https://www.bizwitresearch.com/)**
-  - Worked on UI optimization  and resolved the existing bugs .
-- **Web Developer at [Global News Information](https://www.globalnewsinfo,com/)**
-  - Design and Developed the website for company. This website serves news and people can request for their news article on the website too. 
+- **SSS Subsystem at [Project Vision MIT](https://www.linkedin.com/company/project-vision-mit/)**
+  - Created PCB design of Integrator Circuit for Leap Motion on KiCAD.
+  - Working on PCB & coding for programmable circuits.
+  - Working on development & programming of PCB for data collection in Manipal Lake. (environmental related)
+- **Board at [The Astronomy Club Manipal](https://www.linkedin.com/company/the-astronomy-club-manipal/)**
+  - **Web dev & App dev co-lead**
+    - Designed UI & UX for the club website.
+    - Co-leading the implementation of the design in "html5-css3-bootstrap4" & "python - django - react - mongoDB"
+    - Designing a community application for Astronomy Enthusiasts. (Flutter)
+  - **Graphic Design Head**
+    - Board member for Graphics Department which comprises of "Product Designing", "Graphic Designing", and "Vector & Illustration Designing".
+  - **Management Committee Member**
+    - Graphics Team Management & Youtube - Podcast Co-management.
 
-## 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂  🐙
+## PROJECTS
 
-- **Text Lite** - A open text messaging channel.
-  - It is a Progressive Web Application, allows users to chat with each other in a channel. Project repository is available on **GitHub**.
-- **Diarium** - A platform for writers. 
-  - It is a Web App for writers to post short writing content and kind of a portfolio for bloggers.Project repository is available on **GitHub**.
+- **Project Smart Radio Telescope (SART)** (The Astronomy Club Manipal)
+    - A smart radio telescope (SART) with DSP, ML and AI based capabilities to perform with better accuracy than manual radio telescope; powered with star tracker, and barn-door tracker.
+    - PCB designed using KiCAD and TinkerCAD. Python based system implementation.
+- **Star Tracker Project** (The Astronomy Club Manipal)
+    - Working towards development of a star tracker program which will later be equipped to the Radio Telescope (under development) for better results while studying.
+    - An affordable automatic control upgrade for telescopes with any mount method deployed. Developing with Python with Rasp Pi module.
 - **Iris** - A test taker java program. 
   - It is a java program that can take test during conversation with a student and save a copy of test report for faculty as a text file.
     Project repository is available on **GitHub**.
 
 ## 𝚂𝙺𝙸𝙻𝙻𝚂  🤹
 
-**Basic** : Java, PHP, SQL, 
+**Basic** : Java, Julia, Vue.js, MongoDB
 
-**Intermediate** : C/C++, Javascript, MongoDB, Node.js 
+**Intermediate** : C/C++, HTML5, CSS3, Python
 
-**Tools** :  Git, Mercurial, Adobe Photoshop, Adobe XD, Firebase
+**Tools** :  VSC, ATOM, Affinity Studio (Publisher, Designer, Photo), 
 
 ### 𝙵𝙸𝙴𝙻𝙳𝚂 𝙾𝙵 𝙸𝙽𝚃𝙴𝚁𝙴𝚂𝚃 🙃
 
