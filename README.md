@@ -41,9 +41,9 @@
     - An affordable automatic control upgrade for telescopes with any mount method deployed. Developing with Python with Rasp Pi module.
 
 ## RESEARCH
-- **ALINA** - Advanced Linear Integrator Neural Assembly
-  - It is a java program that can take test during conversation with a student and save a copy of test report for faculty as a text file.
-    Project repository is available on **GitHub**.
+- **ALINA** - Advanced Linear Integrator Neural Assembly (Comprehensive Microchip-on-Neuron Integrating Interface)[Oct 2021 - present]
+  - Interfacing Assembly Unit for integrating microchip on a human neuron cell.
+  - In layman terms, attachment of a virus is achieved when specific proteins on the viral capsid or viral envelope bind to specific proteins called receptor proteins on the cell membrane of the target cell. How this can be implemented artificially is what I am working on.
 - **Time Efficient Data Storage Model & Algorithms for Bio-Computers** [Aug 2021 - present]
   - Model depicting time efficient implementation of organic biomolecules for storage.
   - Research on implementation of non-binary base system at molecular level as a way to improve readability. 
