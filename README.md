@@ -90,5 +90,5 @@
   - **Twitter**        [@leaquadevil](https://www.twitter.com/leaquadevil)
   - **Instagram**  [@gonewith_harsh_winds](https://www.instagram.com/gonewith_harsh_winds)
 - EMAIL ME
-  - [gonewithharshwinds [at] gmail [dot] com](mailto:gonewithharshwinds@gmail.com)
-  - [harsh.mehta1 [at] learner [dot] manipal [dot] edu](mailto:harsh.mehta1@learner.manipal.edu)
+  - [gonewithharshwinds@gmail.com](mailto:gonewithharshwinds@gmail.com)
+  - [harsh.mehta1@learner.manipal.edu](mailto:harsh.mehta1@learner.manipal.edu)
