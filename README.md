@@ -33,15 +33,19 @@
 
 ## PROJECTS
 
-- **Project Smart Radio Telescope (SART)** (The Astronomy Club Manipal)
-    - A smart radio telescope (SART) with DSP, ML and AI based capabilities to perform with better accuracy than manual radio telescope; powered with star tracker, and barn-door tracker.
+- **Project Smart Radio Telescope (SmART)** (The Astronomy Club Manipal)
+    - A smart radio telescope (SmART) with DSP, ML and AI based capabilities to perform with better accuracy than manual radio telescope; powered with star tracker, and barn-door tracker.
     - PCB designed using KiCAD and TinkerCAD. Python based system implementation.
 - **Star Tracker Project** (The Astronomy Club Manipal)
     - Working towards development of a star tracker program which will later be equipped to the Radio Telescope (under development) for better results while studying.
     - An affordable automatic control upgrade for telescopes with any mount method deployed. Developing with Python with Rasp Pi module.
-- **Iris** - A test taker java program. 
+
+## RESEARCH
+- **ALINA** - Advanced Linear Integrator Neural Assembly
   - It is a java program that can take test during conversation with a student and save a copy of test report for faculty as a text file.
     Project repository is available on **GitHub**.
+- **Time Efficient Data Storage Models & Algorithms for Bio-Computers**
+  - 
 
 ## 𝚂𝙺𝙸𝙻𝙻𝚂  🤹
 
