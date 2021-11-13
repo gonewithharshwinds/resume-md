@@ -72,7 +72,7 @@
 - Graphic Design
 
 
-### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂  ✍🏼
+### LANGUAGES
 - English
 - Hindi
 - Gujarati
@@ -86,7 +86,7 @@
 - SOCIAL PRESENCE
   - **Linktr.ee**     [@gonewithharshwinds](https://linktr.ee/gonewithharshwinds)
   - **GitHub**        [@gonewithharshwinds](https://www.github.com/gonewithharshwinds)
-  - **LinkedIn**     [@harshmehta](https://www.linkedin.com/harsh-mehta)
+  - **LinkedIn**     [@harshmehta](https://www.linkedin.com/in/harsh-mehta-79611813a/)
   - **Twitter**        [@leaquadevil](https://www.twitter.com/leaquadevil)
   - **Instagram**  [@gonewith_harsh_winds](https://www.instagram.com/gonewith_harsh_winds)
 - EMAIL ME
