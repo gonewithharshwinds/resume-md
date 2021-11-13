@@ -86,7 +86,7 @@
 - SOCIAL PRESENCE
   - **Linktr.ee**     [@gonewithharshwinds](https://linktr.ee/gonewithharshwinds)
   - **GitHub**        [@gonewithharshwinds](https://www.github.com/gonewithharshwinds)
-  - **LinkedIn**     [@harshmehta](https://www.linkedin.com/apsrcreatix)
+  - **LinkedIn**     [@harshmehta](https://www.linkedin.com/harsh-mehta)
   - **Twitter**        [@leaquadevil](https://www.twitter.com/leaquadevil)
   - **Instagram**  [@gonewith_harsh_winds](https://www.instagram.com/gonewith_harsh_winds)
 - EMAIL ME
