@@ -53,11 +53,13 @@
 
 ## SKILLS
 
-**Basic** : Java, Julia, Vue.js, MongoDB
+**Basic** :  Java, Julia, Vue.js, MongoDB
 
-**Intermediate** : C/C++, HTML5, CSS3, Python, SQL
+**Intermediate** :  C/C++, HTML5, CSS3, Python, SQL
 
-**Tools** :  VSC, ATOM, Affinity Studio (Publisher, Designer, Photo), 
+**Tools** :  VSC, ATOM, Affinity Studio (Publisher, Designer, Photo), Xcode
+
+**MISC** :  KiCAD, Kiel uVision 5, Gromacs (Bio-molecule Simulator), 
 
 ### Fields Of Interest
 
@@ -79,13 +81,14 @@
 - Telugu
 - Russian (learning as a hobby in free time)
 
-## 𝙵𝙸𝙽𝙳 𝙼𝙴 🌇
+## SOCIALS
 
-- SOCIAL HANDLES 🤝🏼
-  - **GitHub**        [@apsrcreatix](https://www.github.com/apsrcreatix)
-  - **LinkedIn**     [@apsrcreatix](https://www.linkedin.com/apsrcreatix)
-  - **Twitter**        [@apsrsince97](https://www.twitter.com/apsrsince97)
-  - **Instagram**  [@apsrsince97](https://www.instagram.com/apsrsince97)
-- MAILS 📧
-  - [apsrcreatix [at] gmail [dot] com](mailto:apsrcreatix@gmail.com)
-  - [adityapratap [underscore] ra [at] srmuniv [dot] edu [dot] in](mailto:adityapratap_ra@srmuniv.edu.in)
+- SOCIAL PRESENCE
+  - **Linktr.ee**     [@gonewithharshwinds](https://linktr.ee/gonewithharshwinds)
+  - **GitHub**        [@gonewithharshwinds](https://www.github.com/gonewithharshwinds)
+  - **LinkedIn**     [@harshmehta](https://www.linkedin.com/apsrcreatix)
+  - **Twitter**        [@leaquadevil](https://www.twitter.com/leaquadevil)
+  - **Instagram**  [@gonewith_harsh_winds](https://www.instagram.com/gonewith_harsh_winds)
+- EMAIL ME
+  - [gonewithharshwinds [at] gmail [dot] com](mailto:gonewithharshwinds@gmail.com)
+  - [harsh.mehta1 [at] learner [dot] manipal [dot] edu](mailto:harsh.mehta1@learner.manipal.edu)
