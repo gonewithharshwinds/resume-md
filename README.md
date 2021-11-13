@@ -44,10 +44,14 @@
 - **ALINA** - Advanced Linear Integrator Neural Assembly
   - It is a java program that can take test during conversation with a student and save a copy of test report for faculty as a text file.
     Project repository is available on **GitHub**.
-- **Time Efficient Data Storage Models & Algorithms for Bio-Computers**
-  - 
+- **Time Efficient Data Storage Model & Algorithms for Bio-Computers** [Aug 2021 - present]
+  - Model depicting time efficient implementation of organic biomolecules for storage.
+  - Research on implementation of non-binary base system at molecular level as a way to improve readability. 
+## INTERESTED IN
+- **Haptic Holographic Technology** - Holograms with Touch Sensation.
+  - Currently, these haptic feedbacks from interactive holograms developed by various firms, such as Asukanet or in colleges/ universities such as Glasgow University use sound waves technology. Some day soon, I wish to make usage of more effective methods to better the haptic feedback received when interacting with the holographic projections.
 
-## 𝚂𝙺𝙸𝙻𝙻𝚂  🤹
+## SKILLS
 
 **Basic** : Java, Julia, Vue.js, MongoDB
 
@@ -55,7 +59,7 @@
 
 **Tools** :  VSC, ATOM, Affinity Studio (Publisher, Designer, Photo), 
 
-### 𝙵𝙸𝙴𝙻𝙳𝚂 𝙾𝙵 𝙸𝙽𝚃𝙴𝚁𝙴𝚂𝚃 🙃
+### Fields Of Interest
 
 - Data Science
 - Bio-computing (Bioinformatics)
@@ -67,10 +71,13 @@
 
 
 ### 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂  ✍🏼
-
-- English 
-
-- Hindi 🇮🇳
+- English
+- Hindi
+- Gujarati
+- French
+- Marathi
+- Telugu
+- Russian (learning as a hobby in free time)
 
 ## 𝙵𝙸𝙽𝙳 𝙼𝙴 🌇
 
