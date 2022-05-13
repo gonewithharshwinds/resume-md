@@ -131,7 +131,6 @@
   - **Linktr.ee**     [@gonewithharshwinds](https://linktr.ee/gonewithharshwinds)
   - **GitHub**        [@gonewithharshwinds](https://www.github.com/gonewithharshwinds)
   - **LinkedIn**     [@harshmehta](https://www.linkedin.com/in/harsh-mehta-79611813a/)
-  - **Twitter**        [@leaquadevil](https://www.twitter.com/leaquadevil)
   - **Instagram**  [@gonewith_harsh_winds](https://www.instagram.com/gonewith_harsh_winds)
 - EMAIL ME
   - [gonewithharshwinds@gmail.com](mailto:gonewithharshwinds@gmail.com)
