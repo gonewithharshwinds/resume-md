@@ -42,7 +42,7 @@
 
 - **Gaussian Naive Bayes Implementation to prove no generalized correlation failure & launch day** [hobby project]
     - Space Missions dataset from Kaggle [2897 train + 1427 test data]
-    - Obtained maximum of 90.11% accuracy suggesting no correlation between day {Sun, Mon, Tue, etc} and launch company given 92% data suggests success of the mission.
+    - Obtained maximum of 90.11% accuracy suggesting no correlation between day {Sun, Mon, Tue, etc} and launch company given 92% data suggests success of the mission. [incomplete pattern]
     - This further suggests the possibility of rocket scientists showing no "significant" bias in their behavior or emotions towards a particular day.
     - :)
 
