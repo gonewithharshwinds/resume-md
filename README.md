@@ -133,7 +133,7 @@
 - SOCIAL PRESENCE
   - **Linktr.ee**     [@gonewithharshwinds](https://linktr.ee/gonewithharshwinds)
   - **GitHub**        [@gonewithharshwinds](https://www.github.com/gonewithharshwinds)
-  - **LinkedIn**     [@harshmehta](https://www.linkedin.com/in/harsh-mehta-79611813a/)
+  - **LinkedIn**     [@goneharsh](https://www.linkedin.com/in/goneharsh/)
   - **Instagram**  [@gonewith_harsh_winds](https://www.instagram.com/gonewith_harsh_winds)
 - EMAIL ME
   - [gonewithharshwinds@gmail.com](mailto:gonewithharshwinds@gmail.com)
