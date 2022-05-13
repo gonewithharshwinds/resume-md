@@ -60,9 +60,10 @@
   - Theoritical interfacing assembly unit for integrating microchip on a human neurons.
   - In layman terms, attachment of a virus is achieved when specific proteins on the viral capsid or viral envelope bind to specific proteins called receptor proteins on the cell membrane of the target cell. How this can be implemented artificially using circuits & code?
 
-- **Time Efficient Data Storage Model & Algorithms for Bio-Computers** [Aug 2021 - present]
+- **Time Efficient Data Storage {TEDS} Model & Algorithms for Bio-Computers** [Aug 2021 - present]
   - Model depicting time efficient implementation of organic biomolecules for storage.
   - Research on implementation of non-binary base system at molecular level as a way to improve readability and computational speeds. 
+  - Development of a base-12 math from scratch.
 
 
 ## INTERESTED IN
