@@ -1,5 +1,7 @@
 # HARSH AJAY MEHTA
 
+[link to document resume](https://drive.google.com/file/d/1dddg5L81_BDzsmjDtB_7lCnMLQJB3BsA/view?usp=sharing)
+
 ## EDUCATION
 
 - **Manipal Institute Of Technology, Manipal — B.Tech (Information Technology)** 
