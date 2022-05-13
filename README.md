@@ -5,7 +5,7 @@
 ## EDUCATION
 
 - **Manipal Institute Of Technology, Manipal — B.Tech (Information Technology)** 
-  - Batch :  June 2019 - (Present)
+  - Batch :  June 2019 - 2023 (present)
   - CGPA : 7.53 (until 4th Sem)
 - **Velociity Junior College, Hyderabad — Higher Secondary (Class 11,12th)**
    - Year : June 2017 - March 2019
